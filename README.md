@@ -1,2 +1,2 @@
 # Demo-Projekt
-Dies ist ein Demo-Projekt.
+Dies ist ein Demo-Projekt!
